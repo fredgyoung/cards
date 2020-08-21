@@ -1,0 +1,28 @@
+body {
+    position: absolute;
+}
+
+#container {
+    border: 1px solid;
+    height: 200px;
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+.slot {
+    position: fixed;
+    border: 1px solid;
+    top: 100px;
+    width: 40px;
+    height: 40px;
+}
+
+.card {
+    position: fixed;
+    border: 1px solid;
+    top: 105px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+}
